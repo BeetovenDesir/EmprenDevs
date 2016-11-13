@@ -20,7 +20,7 @@ Finally, Beware! The main developer's main communication language is heavily acc
 @Authors and collaborators
 @Pablo / plober@gmail.com 
 @ Falconieer  / falconieer@gmail.com
-@Beetoven /beetovenson@gmail.com 
+@Beetoven / beetovenson@gmail.com 
 
 @Hackaton2016 / EmprenDevs
 @Accelone Argentina
