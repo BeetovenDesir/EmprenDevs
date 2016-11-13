@@ -16,3 +16,11 @@ It uses
  * Cordova/Ionic
 
 Finally, Beware! The main developer's main communication language is heavily accented Spanish, so you might find some oddly named variables.
+
+@Autores And Colaborator
+@plober@gmail.com / Pablo
+@falconieer@gmail.com / Falconieer
+@beetovenson@gmail.com/ Beetoven
+
+@Hackaton2016 / EmprenDevs
+@Accelone Argentina
