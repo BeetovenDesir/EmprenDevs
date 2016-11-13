@@ -18,9 +18,9 @@ It uses
 Finally, Beware! The main developer's main communication language is heavily accented Spanish, so you might find some oddly named variables.
 
 @Authors and collaborators
-@plober@gmail.com / Pablo
-@falconieer@gmail.com / Falconieer
-@beetovenson@gmail.com/ Beetoven
+@Pablo / plober@gmail.com 
+@ Falconieer  / falconieer@gmail.com
+@Beetoven /beetovenson@gmail.com 
 
 @Hackaton2016 / EmprenDevs
 @Accelone Argentina
