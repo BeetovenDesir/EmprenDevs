@@ -1,0 +1,27 @@
+/* Empty. Add your own CSS if you like */
+
+img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+#resut-image{
+	display: block;
+	width: 100%;
+	height: auto;
+
+}
+.trunchos{
+	display: block;
+}
+.trunchos .col{
+	padding: 0;
+	display: block;
+	width: 100%;
+	height: auto;
+	float: none;
+	flex: none;
+}
+.trunchos .col button{
+	font-size: 12px;
+}
